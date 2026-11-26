@@ -4,8 +4,8 @@ class Gloam < Formula
   desc "Internet radio and music player with an audio-reactive terminal visualiser"
   homepage "https://github.com/londonpixelexchange/gloam"
   url "https://github.com/londonpixelexchange/gloam.git",
-      tag:      "v1.1.0",
-      revision: "461339190aaf16607dd7c90bfa8662cb380f4e62"
+      tag:      "v1.1.1",
+      revision: "df8351c48dd6ec0d88415d52eeacb923c84c549c"
   license "MIT"
   head "https://github.com/londonpixelexchange/gloam.git", branch: "main"
 
