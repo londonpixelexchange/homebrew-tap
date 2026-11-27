@@ -1,8 +1,8 @@
 cask "moth" do
-  version "0.28.2"
-  sha256 "429facccbc0ecde78b967087e168201b307e576533b182b11f7fa1463d10f4e9"
+  version "0.28.3"
+  sha256 "dbf528922254411863d576859a81f80436e03d0d48af6d509fd4687a9dd05be6"
 
-  url "https://getmoth.dev/downloads/macos/Moth-#{version}-bdb8a8d0a359-arm64.dmg"
+  url "https://getmoth.dev/downloads/macos/Moth-#{version}-6c5741f7022b-arm64.dmg"
   name "Moth"
   desc "Native macOS terminal emulator"
   homepage "https://getmoth.dev/"
